@@ -3,7 +3,7 @@ on:
    workflow_dispatch:
 
 jobs:
-  fussionbuild:
+  kashibuild:
        runs-on: ubuntu-latest
 
        steps:
