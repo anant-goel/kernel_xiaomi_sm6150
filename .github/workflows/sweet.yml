@@ -1,4 +1,4 @@
-name: mido-main
+name: sweet-main
 on:
    workflow_dispatch:
 
